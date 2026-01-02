@@ -26,7 +26,7 @@ public class SpringConfigFile {
 
 		std.setName("Shailesh");
 		std.setRollNo(101);
-		std.setAddress(returnAddrObj());
+//		std.setAddress(returnAddrObj()); manually di 
 
 		return std;
 	}

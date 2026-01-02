@@ -1,8 +1,12 @@
 package in.sp.beans;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 public class Student {
 	private String name;
 	private int rollNo;
+
+	@Autowired
 	private Address address;
 
 	public String getName() {
@@ -23,10 +27,6 @@ public class Student {
 
 	public Address getAddress() {
 		return address;
-	}
-
-	public void setAddress(Address address) {
-		this.address = address;
 	}
 
 	public void display() {
