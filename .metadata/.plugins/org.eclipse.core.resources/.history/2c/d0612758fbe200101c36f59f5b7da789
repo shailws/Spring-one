@@ -1,8 +1,0 @@
-package in.sp.beans;
-
-public class Address {
-	private int houseNo;
-	private String city;
-	private int pinCode;
-	
-}
