@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="java.lang.foreign.AddressLayout"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
     <fullyQualifiedTypeName name="in.sp.resources.SpringConfigFile"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="in.sp.beans.Subject"/>
     <fullyQualifiedTypeName name="in.sp.beans.Subjects"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
@@ -12,8 +11,9 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
-    <fullyQualifiedTypeName name="in.sp.beans.Address"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="in.sp.beans.Student"/>
+    <fullyQualifiedTypeName name="in.sp.beans.Address"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

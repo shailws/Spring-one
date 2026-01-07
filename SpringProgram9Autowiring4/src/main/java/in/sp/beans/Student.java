@@ -18,6 +18,7 @@ public class Student {
 	}
 
 	public void setRollNo(int rollNo) {
+		System.out.println("roll setter method called");
 		this.rollNo = rollNo;
 	}
 
@@ -26,6 +27,7 @@ public class Student {
 	}
 
 	public void setAddress(Address address) {
+		System.out.println("address setter method called");
 		this.address = address;
 	}
 
