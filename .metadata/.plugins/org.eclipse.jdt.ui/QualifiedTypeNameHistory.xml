@@ -11,9 +11,9 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="in.sp.beans.Address"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-    <fullyQualifiedTypeName name="in.sp.beans.Student"/>
-    <fullyQualifiedTypeName name="in.sp.beans.Address"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="in.sp.beans.Student"/>
 </qualifiedTypeNameHistroy>
